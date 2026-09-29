@@ -10,7 +10,6 @@ public class TestBentuk {
         l.printInfo();
         s.printInfo();
 
-        // ubah nilai dengan setter
         bs.setSisi(5);
         l.setRadius(3);
         s.setTinggi(2);
